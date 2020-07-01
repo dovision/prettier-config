@@ -1,0 +1,9 @@
+{
+  "name": "@w2solutions/prettier-config",
+  "version": "1.0.0",
+  "description": "W2 Solutions prettier config",
+  "main": ".prettierrc.json",
+  "repository": "git@github.com:w2solutions/prettier-config.git",
+  "author": "W2 Solutions",
+  "license": "MIT"
+}
